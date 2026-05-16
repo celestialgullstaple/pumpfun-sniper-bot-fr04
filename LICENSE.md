@@ -1,4 +1,4 @@
-# 
+# MEV-optimized pump.fun sniper bot | volume-spike-detection + snipe-list-management is the best pump.fun sniper bot, featuring volume-spike-detection and snipe-list-management.
 
 
 
